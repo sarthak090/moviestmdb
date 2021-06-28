@@ -8,3 +8,5 @@ docs
 
 jsdoc.json
 ./jsdoc.json
+
+.npmignore
