@@ -1,0 +1,29 @@
+{
+  "name": "moviestmdb",
+  "version": "1.1.2",
+  "description": "unofficial sdk for tmdb api",
+  "main": "src/index.js",
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthak090/moviestmdb.git"
+  },
+  "keywords": [
+    "tmdb",
+    "moviesapi",
+    "themoviedb"
+  ],
+  "author": "sarthak kaushik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarthak090/moviestmdb/issues"
+  },
+  "homepage": "https://github.com/sarthak090/moviestmdb#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jsdoc": "^3.6.7",
+    "node-fetch": "^2.6.1"
+  }
+}
