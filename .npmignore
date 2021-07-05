@@ -10,5 +10,13 @@ node_modules
 /docs
 docs
 
+
+/src
+
+src
+tsconfig.json
+tslint.json
+.prettierrc
+
 jsdoc.json
 ./jsdoc.json

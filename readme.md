@@ -1,6 +1,6 @@
 # moviestmdb
 
-a package to interact with the themoviedb api easily
+a package to interact with the themoviedb api easily,the package also provide the types for the response data read below for more info
 
 to install run 
 
