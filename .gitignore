@@ -10,3 +10,6 @@ jsdoc.json
 ./jsdoc.json
 
 .npmignore
+
+/lib
+lib
